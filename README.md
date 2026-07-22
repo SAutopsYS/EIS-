@@ -6,7 +6,7 @@ Platform Engineer screening project for **Euro International School (Sikar)**. F
 
 | | |
 |---|---|
-| **GitHub Repository** | _[https://github.com/SAutopsYS/EIS-Marks.git]_ |
+| **GitHub Repository** | _https://github.com/SAutopsYS/EIS-.git_ |
 | **Demo Video (Loom)** | _[Add your 3–5 minute Loom URL here]_ |
 
 ---
@@ -426,5 +426,5 @@ Built for the Euro International School **Platform Engineer** screening assignme
 
 | | |
 |---|---|
-| **GitHub Repository** | _[Add your public repo URL here]_ |
+| **GitHub Repository** | _https://github.com/SAutopsYS/EIS-.git_ |
 | **Demo Video (Loom)** | _[Add your Loom URL here]_ |
