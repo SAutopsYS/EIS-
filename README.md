@@ -105,7 +105,6 @@ One Django domain app (`academics`) with thin views, DRF serializers, and small 
 ```text
 .
 ├── README.md
-├── ENGINEERING_BLUEPRINT.md
 ├── .gitignore
 ├── data/
 │   ├── students_marks.csv
